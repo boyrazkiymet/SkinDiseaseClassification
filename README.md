@@ -93,4 +93,4 @@ Bu çalışma ile:
 
 Çalışmamın Kaggle linklerini buradan görebilirsiniz:
 
-- 
+- https://www.kaggle.com/code/kymetboyraz/kiymetboyrazderinogrenmenotebook
