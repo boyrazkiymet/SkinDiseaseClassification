@@ -1,4 +1,4 @@
-# skin-disease-classification
+<img width="1621" height="764" alt="image" src="https://github.com/user-attachments/assets/faf053d8-5a7d-4d13-a9b6-9a7e81f77b41" /># skin-disease-classification
 
 Bu repo, Akbank Derin Öğrenme Bootcamp kapsamında geliştirdiğim deri hastalıkları sınıflandırma projesine aittir.  
 Projenin amacı, farklı deri hastalıklarını içeren görsellerden bir CNN tabanlı model ile sınıflandırma yapmaktır.  
@@ -88,6 +88,7 @@ Bu çalışma ile:
 - Medikal uzman görüşü ile yanlış sınıflandırmaların incelenmesi  
 
 ---
+çıktı kaydetmeme sorunu : ![Uploading image.png…]()
 
 ## Linkler
 
