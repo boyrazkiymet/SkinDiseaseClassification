@@ -3,6 +3,7 @@
 Bu repo, Akbank Derin Öğrenme Bootcamp kapsamında geliştirdiğim deri hastalıkları sınıflandırma projesine aittir.  
 Projenin amacı, farklı deri hastalıklarını içeren görsellerden bir CNN tabanlı model ile sınıflandırma yapmaktır.  
 Çalışma, Kaggle üzerinde gerçekleştirilmiş ve görseller, eğitim süreci ile metrikler detaylı şekilde raporlanmıştır.  
+NOT:Notebook ekran çıktıları teknik aksaklıklardan ötürü kayıt esnasında sıkıntılar çıkarmıştır çok fazla süre kalmadığı için yeniden run edilip çıktılar çok iyi şekilde ortaya koyulamamıştır.
 
 ---
 
